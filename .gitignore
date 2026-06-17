@@ -1,0 +1,17 @@
+# Arduino specific
+*.hex
+*.elf
+*.bin
+
+# Build artifacts
+build/
+.pioenvs/
+.piolibdeps/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Arduino IDE temp files
+*.tmp
