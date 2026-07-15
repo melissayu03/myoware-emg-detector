@@ -1,5 +1,5 @@
 # myoware-emg-detector
-![Status](https://shields.io)
+![Status](https://img.shields.io/badge/status-done-green)
 
 Project summary: Real-time EMG signal acquisition and visualization using a MyoWare 2.0 muscle sensor and Arduino Uno.
 
@@ -24,7 +24,7 @@ Results: First muscle signal acquisition on forearm flexor muscle. Signal scales
 consistently with contraction intensity — resting baseline of ~27-30 ADC 
 counts rising to ~400-500 ADC counts at peak contraction.
 
-![EMG Signal](docs/hard_contraction_1.png)
+![EMG Signal](docs/hardcontraction1.png)
 
 Future Work: 
 - Software digital filtering (moving average) to reduce signal noise
