@@ -24,7 +24,7 @@ Results: First muscle signal acquisition on forearm flexor muscle. Signal scales
 consistently with contraction intensity — resting baseline of ~27-30 ADC 
 counts rising to ~400-500 ADC counts at peak contraction.
 
-![EMG Signal](hard%20contraction%201.png)
+![EMG Signal](docs/hard%20contraction%201.png)
 
 Future Work: 
 - Software digital filtering (moving average) to reduce signal noise
