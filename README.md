@@ -31,3 +31,7 @@ Future Work:
 - Electrode placement optimization to maximize signal amplitude
 - Data logging to CSV via Python/pyserial
 - Custom visualization dashboard
+
+Engineering Notebook
+Full design and documentation process tracked in engineering notebook:
+[View Engineering Notebook](https://docs.google.com/document/d/1KGzMrpKOS1GtQRWF48lTn8WPxLdQiGa2olpg0urU2-4/edit?usp=sharing)
